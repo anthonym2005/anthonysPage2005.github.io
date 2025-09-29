@@ -1,0 +1,66 @@
+/*------------------------------------*\
+   LOCAL SCREENS
+\*------------------------------------*/
+
+ /*------------------------------------*\
+   END LOCAL SCREENS
+\*------------------------------------*/ 
+
+
+/*------------------------------------*\
+   LOCAL FIXES
+\*------------------------------------*/
+
+@media (max-width:1068px) {
+    .subsection-hifi-sound-details {
+        margin-top: 750px;
+    }
+}
+@media (max-width:734px) {
+    .subsection-hifi-sound-details {
+        margin-top: 640px;
+    }
+}
+@media (max-width:480px) {
+    html.no-enhanced .subsection-hifi-sound-details {
+        margin-top: 450px;
+    }
+}
+
+@media only screen and (min-width: 1069px) {
+	[data-media-card-gallery] .media-gallery .media-gallery-item-anc .caption {
+		margin-bottom: 100px;
+	}
+}
+
+.section-design .captions .frame-caption {
+	top: 22%;
+}
+
+@media only screen and (max-width: 1068px){
+	.section-design .captions .frame-caption {
+		top: 20%;
+	}
+}
+
+@media only screen and (max-width: 734px){
+	.section-design .captions .frame-caption {
+		top: auto;
+	}
+}
+
+@media (max-width: 414px) {
+    .ric-modal.product-stories-hifi-sound .hifi-sound-gallery .gallery-item-caption {
+        margin-top: 165px;
+    }
+}
+
+@media (max-width: 480px) {
+    .ric-modal.product-stories-hifi-sound .hifi-sound-gallery .gallery-item-caption {
+        margin-top: 160px;
+    }
+}
+
+/*------------------------------------*\
+   END LOCAL FIXES
+\*------------------------------------*/
